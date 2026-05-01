@@ -8,6 +8,11 @@ The **Chinese Tallow tree**, originally from China, is an invasive species found
 Preventing its spread requires identifying areas where it is most likely to grow, allowing for efficient allocation of removal resources. Early detection is especially important, as Chinese Tallow trees are easiest to remove during the seedling stage.
 
 ---
+## Recognition
+NSTEM Project Based Learning (PBL) Commitment to Envrionmental Sustainability
+United Nations Sustainable Development Goal (SDG)- Sustainable cities and communities
+United Nations Sustainable Development Goal (SDG)- Life on land
+
 
 ## Approach
 One effective way to predict future spread is through **machine learning**, which uses data and algorithms to extract insights and make predictions.
